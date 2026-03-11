@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f0ef4d9f08950e49a80de42be272469, type: 3}
+  m_Name: Config_RunnerGame
+  m_EditorClassIdentifier: Assembly-CSharp::RunnerGameConfig
+  <StartSpeed>k__BackingField: 6.5
+  <SpeedIncreasePerSecond>k__BackingField: 0.12
+  <MaxSpeed>k__BackingField: 9999
+  <JumpHeightMeters>k__BackingField: 0.1
+  <JumpDurationSeconds>k__BackingField: 0.6
+  <SlideDurationSeconds>k__BackingField: 0.7
+  <WarmupSeconds>k__BackingField: 2.5
+  <ReviveInvulnerabilitySeconds>k__BackingField: 2
+  <LaneOffsetX>k__BackingField: 2.5
+  <LaneChangeDurationSeconds>k__BackingField: 0.12
+  <ScorePerMeter>k__BackingField: 1
